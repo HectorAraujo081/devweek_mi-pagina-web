@@ -17,7 +17,7 @@ ul li a p {
 
 /* 3er commit - Cambiar el color de la barra lateral */
 header.sidebar {
-  background-color: #ff0f0f;
+  background-color: #fc0101;
   width           : 30%;
   background-size : cover;
   display         : inline-block;
@@ -29,7 +29,7 @@ header.sidebar {
 
 /* 4to commit - Cambiar el color la barra donde esta "TU CARRERA" */
 div.comunidad-autoria {
-  background: #000000;
+  background: #5906f3;
   padding   : 3% 0;
   margin    : 12% 0;
 }
