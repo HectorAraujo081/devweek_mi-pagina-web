@@ -1,13 +1,13 @@
 /* 1er commit - Cambiar el fondo de la pagina */
 body {
-  background: #2df0e6;
+  background: #3d9793;
   font-size : 16px;
 }
 
 /* 2do commit - Cambiar el color de los textos y botones de las redes sociales */
 ul li a p {
-  color          : #FFFFFF;
-  background     : #E94016;
+  color          : #000000;
+  background     : #e404be;
   width          : 75%;
   list-style-type: none;
   padding        : .3em 1em .3em;
